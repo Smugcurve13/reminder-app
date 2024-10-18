@@ -1,0 +1,5 @@
+set a reminder text (ask whether you worked on project)
+runs everyday at set time
+opens gui/cli at that time, prompting whether you have worked on project today
+if yes then show complete now and close on userinput
+else no then close the app
